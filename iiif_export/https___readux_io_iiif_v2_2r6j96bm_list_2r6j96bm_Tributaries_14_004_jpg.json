@@ -1,0 +1,4325 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.io/iiif/v2/2r6j96bm/list/2r6j96bm_Tributaries-14-004.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1864a1a4-fef3-4f09-ab44-693b7c20529a",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='1864a1a4-fef3-4f09-ab44-693b7c20529a' class='anno-1864a1a4-fef3-4f09-ab44-693b7c20529a' data-letter-spacing='0.06230095541401274'>Contents</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=266,492,314,63",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-1864a1a4-fef3-4f09-ab44-693b7c20529a: { height: 63px; width: 314px; font-size: 39.375px; letter-spacing: 19.5625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e99c1c1f-7973-4b43-9fe1-0e6faad12a7d",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='e99c1c1f-7973-4b43-9fe1-0e6faad12a7d' class='anno-e99c1c1f-7973-4b43-9fe1-0e6faad12a7d' data-letter-spacing='0.04910714285714286'>Alabama</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=267,669,120,36",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-e99c1c1f-7973-4b43-9fe1-0e6faad12a7d: { height: 36px; width: 120px; font-size: 22.5px; letter-spacing: 5.892857142857143px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "36228126-b4d3-45b3-a326-fb502fca5227",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='36228126-b4d3-45b3-a326-fb502fca5227' class='anno-36228126-b4d3-45b3-a326-fb502fca5227' data-letter-spacing='0.0'>Folklife</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=398,669,90,36",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-36228126-b4d3-45b3-a326-fb502fca5227: { height: 36px; width: 90px; font-size: 22.5px; letter-spacing: 0.0px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1a26d4d5-6489-4d7d-9100-bd4abd7264b0",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='1a26d4d5-6489-4d7d-9100-bd4abd7264b0' class='anno-1a26d4d5-6489-4d7d-9100-bd4abd7264b0' data-letter-spacing='0.0024509803921568627'>...</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=492,669,34,36",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-1a26d4d5-6489-4d7d-9100-bd4abd7264b0: { height: 36px; width: 34px; font-size: 22.5px; letter-spacing: 0.08333333333333333px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "bc8f5f70-84ed-401d-bd20-4c721fb2b70e",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='bc8f5f70-84ed-401d-bd20-4c721fb2b70e' class='anno-bc8f5f70-84ed-401d-bd20-4c721fb2b70e' data-letter-spacing='0.33035714285714285'>5</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1388,671,14,30",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-bc8f5f70-84ed-401d-bd20-4c721fb2b70e: { height: 30px; width: 14px; font-size: 18.75px; letter-spacing: 4.625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4f6da6d0-97ee-4fff-9e94-fc3858b11ce5",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='4f6da6d0-97ee-4fff-9e94-fc3858b11ce5' class='anno-4f6da6d0-97ee-4fff-9e94-fc3858b11ce5' data-letter-spacing='0.07942708333333333'>The</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=263,770,48,39",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-4f6da6d0-97ee-4fff-9e94-fc3858b11ce5: { height: 39px; width: 48px; font-size: 24.375px; letter-spacing: 3.8125px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "9fb023d7-6fe7-4294-b152-ed70349bcfb2",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='9fb023d7-6fe7-4294-b152-ed70349bcfb2' class='anno-9fb023d7-6fe7-4294-b152-ed70349bcfb2' data-letter-spacing='0.043750000000000004'>Joyce</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=320,770,78,39",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-9fb023d7-6fe7-4294-b152-ed70349bcfb2: { height: 39px; width: 78px; font-size: 24.375px; letter-spacing: 3.4125px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "0233d771-fe94-40ad-a864-30a884dac70e",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='0233d771-fe94-40ad-a864-30a884dac70e' class='anno-0233d771-fe94-40ad-a864-30a884dac70e' data-letter-spacing='-0.029891304347826088'>H.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=409,770,23,39",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-0233d771-fe94-40ad-a864-30a884dac70e: { height: 39px; width: 23px; font-size: 24.375px; letter-spacing: -0.6875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "2b1940ed-0e65-451c-a252-fe2d742ac20f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='2b1940ed-0e65-451c-a252-fe2d742ac20f' class='anno-2b1940ed-0e65-451c-a252-fe2d742ac20f' data-letter-spacing='0.03305984555984556'>Cauthen</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=443,770,111,39",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-2b1940ed-0e65-451c-a252-fe2d742ac20f: { height: 39px; width: 111px; font-size: 24.375px; letter-spacing: 3.669642857142857px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1e541d7b-1b85-4c09-bd12-425bd92e1134",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='1e541d7b-1b85-4c09-bd12-425bd92e1134' class='anno-1e541d7b-1b85-4c09-bd12-425bd92e1134' data-letter-spacing='0.012946428571428572'>Fellowship</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=566,770,140,39",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-1e541d7b-1b85-4c09-bd12-425bd92e1134: { height: 39px; width: 140px; font-size: 24.375px; letter-spacing: 1.8125px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "0674661b-d7fa-402a-b604-4df35d59f584",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='0674661b-d7fa-402a-b604-4df35d59f584' class='anno-0674661b-d7fa-402a-b604-4df35d59f584' data-letter-spacing='0.050204918032786885'>Fund</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=717,770,61,39",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-0674661b-d7fa-402a-b604-4df35d59f584: { height: 39px; width: 61px; font-size: 24.375px; letter-spacing: 3.0625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "66a82d59-f5cc-4bd6-b237-814c37ebcf73",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='66a82d59-f5cc-4bd6-b237-814c37ebcf73' class='anno-66a82d59-f5cc-4bd6-b237-814c37ebcf73' data-letter-spacing='0.4166666666666667'>6</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1387,771,15,28",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-66a82d59-f5cc-4bd6-b237-814c37ebcf73: { height: 28px; width: 15px; font-size: 17.5px; letter-spacing: 6.25px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "53b323da-2fec-4fe3-a0fc-a7908aea8cff",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='53b323da-2fec-4fe3-a0fc-a7908aea8cff' class='anno-53b323da-2fec-4fe3-a0fc-a7908aea8cff' data-letter-spacing='-0.020833333333333332'>In</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=267,872,21,35",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-53b323da-2fec-4fe3-a0fc-a7908aea8cff: { height: 35px; width: 21px; font-size: 21.875px; letter-spacing: -0.4375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8016661d-b582-459a-b64f-06d714952644",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8016661d-b582-459a-b64f-06d714952644' class='anno-8016661d-b582-459a-b64f-06d714952644' data-letter-spacing='0.024305555555555556'>Gratitude</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=299,872,126,35",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8016661d-b582-459a-b64f-06d714952644: { height: 35px; width: 126px; font-size: 21.875px; letter-spacing: 3.0625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "05f3dc51-4302-43c1-920b-c594254b2115",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='05f3dc51-4302-43c1-920b-c594254b2115' class='anno-05f3dc51-4302-43c1-920b-c594254b2115' data-letter-spacing='0.10062056737588652'>and</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=433,872,47,35",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-05f3dc51-4302-43c1-920b-c594254b2115: { height: 35px; width: 47px; font-size: 21.875px; letter-spacing: 4.729166666666667px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b50cf5d7-499c-4d63-86eb-19b19d112768",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b50cf5d7-499c-4d63-86eb-19b19d112768' class='anno-b50cf5d7-499c-4d63-86eb-19b19d112768' data-letter-spacing='-0.046875'>In</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=493,872,20,35",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-b50cf5d7-499c-4d63-86eb-19b19d112768: { height: 35px; width: 20px; font-size: 21.875px; letter-spacing: -0.9375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "9674ebbd-3167-449e-99fd-b2430bf435b5",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='9674ebbd-3167-449e-99fd-b2430bf435b5' class='anno-9674ebbd-3167-449e-99fd-b2430bf435b5' data-letter-spacing='0.048513986013986016'>Memoriam</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=525,872,143,35",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-9674ebbd-3167-449e-99fd-b2430bf435b5: { height: 35px; width: 143px; font-size: 21.875px; letter-spacing: 6.9375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "bce1b178-7323-4c55-84dd-37797dc1dc4e",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='bce1b178-7323-4c55-84dd-37797dc1dc4e' class='anno-bce1b178-7323-4c55-84dd-37797dc1dc4e' data-letter-spacing='0.375'>7</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1389,872,14,28",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-bce1b178-7323-4c55-84dd-37797dc1dc4e: { height: 28px; width: 14px; font-size: 17.5px; letter-spacing: 5.25px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b9771761-da0c-4b8f-ad1b-0ec2b142e673",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b9771761-da0c-4b8f-ad1b-0ec2b142e673' class='anno-b9771761-da0c-4b8f-ad1b-0ec2b142e673' data-letter-spacing='0.39732142857142855'>9</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1388,973,14,27",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-b9771761-da0c-4b8f-ad1b-0ec2b142e673: { height: 27px; width: 14px; font-size: 16.875px; letter-spacing: 5.5625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "32526c8e-6644-4424-aff0-1c2bacaf5241",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='32526c8e-6644-4424-aff0-1c2bacaf5241' class='anno-32526c8e-6644-4424-aff0-1c2bacaf5241' data-letter-spacing='-0.171875'>A</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=268,971,8,30",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-32526c8e-6644-4424-aff0-1c2bacaf5241: { height: 30px; width: 8px; font-size: 18.75px; letter-spacing: -1.375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b9d12c20-7648-4525-87df-c40a9441fe10",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b9d12c20-7648-4525-87df-c40a9441fe10' class='anno-b9d12c20-7648-4525-87df-c40a9441fe10' data-letter-spacing='0.13704819277108435'>TOUR</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=299,971,83,30",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-b9d12c20-7648-4525-87df-c40a9441fe10: { height: 30px; width: 83px; font-size: 18.75px; letter-spacing: 11.375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "9b562ed7-2b3e-4981-a6ef-dc8d9ee7e15b",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='9b562ed7-2b3e-4981-a6ef-dc8d9ee7e15b' class='anno-9b562ed7-2b3e-4981-a6ef-dc8d9ee7e15b' data-letter-spacing='0.24662162162162163'>OF</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=395,971,37,30",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-9b562ed7-2b3e-4981-a6ef-dc8d9ee7e15b: { height: 30px; width: 37px; font-size: 18.75px; letter-spacing: 9.125px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "2932939b-7038-4c58-9c60-2551120e4061",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='2932939b-7038-4c58-9c60-2551120e4061' class='anno-2932939b-7038-4c58-9c60-2551120e4061' data-letter-spacing='0.0844987091222031'>ALABAMA</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=447,971,166,31",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-2932939b-7038-4c58-9c60-2551120e4061: { height: 31px; width: 166px; font-size: 19.375px; letter-spacing: 14.026785714285714px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "7ae26e13-eee0-482e-bfc4-1fda10de04a9",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='7ae26e13-eee0-482e-bfc4-1fda10de04a9' class='anno-7ae26e13-eee0-482e-bfc4-1fda10de04a9' data-letter-spacing='0.14224137931034483'>BARE</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=624,972,87,30",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-7ae26e13-eee0-482e-bfc4-1fda10de04a9: { height: 30px; width: 87px; font-size: 18.75px; letter-spacing: 12.375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "befa498d-d624-4697-a28d-52c6eba57b45",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='befa498d-d624-4697-a28d-52c6eba57b45' class='anno-befa498d-d624-4697-a28d-52c6eba57b45' data-letter-spacing='-0.041666666666666664'>-</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=715,973,9,30",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-befa498d-d624-4697-a28d-52c6eba57b45: { height: 30px; width: 9px; font-size: 18.75px; letter-spacing: -0.375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "19f64f06-43c6-4f93-b811-f571de6e788b",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='19f64f06-43c6-4f93-b811-f571de6e788b' class='anno-19f64f06-43c6-4f93-b811-f571de6e788b' data-letter-spacing='0.11399082568807341'>EARTH</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=730,973,109,30",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-19f64f06-43c6-4f93-b811-f571de6e788b: { height: 30px; width: 109px; font-size: 18.75px; letter-spacing: 12.425px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "47d00dd2-423c-435c-8341-ded558fc6c45",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='47d00dd2-423c-435c-8341-ded558fc6c45' class='anno-47d00dd2-423c-435c-8341-ded558fc6c45' data-letter-spacing='0.05494186046511628'>CEMETERIES</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=851,973,215,31",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-47d00dd2-423c-435c-8341-ded558fc6c45: { height: 31px; width: 215px; font-size: 19.375px; letter-spacing: 11.8125px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "63337fd8-c741-4a0f-8b57-9c4149eaf1e1",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='63337fd8-c741-4a0f-8b57-9c4149eaf1e1' class='anno-63337fd8-c741-4a0f-8b57-9c4149eaf1e1' data-letter-spacing='0.008283132530120483'>........</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1079,974,83,31",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-63337fd8-c741-4a0f-8b57-9c4149eaf1e1: { height: 31px; width: 83px; font-size: 19.375px; letter-spacing: 0.6875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "afc370b7-25da-4045-b3b6-26243243899e",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='afc370b7-25da-4045-b3b6-26243243899e' class='anno-afc370b7-25da-4045-b3b6-26243243899e' data-letter-spacing='0.10074626865671642'>Alan</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=258,1022,67,32",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-afc370b7-25da-4045-b3b6-26243243899e: { height: 32px; width: 67px; font-size: 20.0px; letter-spacing: 6.75px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e3070966-95cf-4900-8f7a-14729c7021ee",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='e3070966-95cf-4900-8f7a-14729c7021ee' class='anno-e3070966-95cf-4900-8f7a-14729c7021ee' data-letter-spacing='0.05436156763590392'>Jabbour</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=332,1022,113,32",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-e3070966-95cf-4900-8f7a-14729c7021ee: { height: 32px; width: 113px; font-size: 20.0px; letter-spacing: 6.142857142857143px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "008fcd73-8075-4e52-9c0d-0a65e5c3e2ba",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='008fcd73-8075-4e52-9c0d-0a65e5c3e2ba' class='anno-008fcd73-8075-4e52-9c0d-0a65e5c3e2ba' data-letter-spacing='0.13112745098039216'>and</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=452,1022,51,33",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-008fcd73-8075-4e52-9c0d-0a65e5c3e2ba: { height: 33px; width: 51px; font-size: 20.625px; letter-spacing: 6.6875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "eb7ca501-c561-46a7-b241-4f2e6413888a",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='eb7ca501-c561-46a7-b241-4f2e6413888a' class='anno-eb7ca501-c561-46a7-b241-4f2e6413888a' data-letter-spacing='0.08372093023255814'>Karen</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=508,1023,86,32",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-eb7ca501-c561-46a7-b241-4f2e6413888a: { height: 32px; width: 86px; font-size: 20.0px; letter-spacing: 7.2px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "6a353743-293f-4151-a790-c08574cc2a37",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='6a353743-293f-4151-a790-c08574cc2a37' class='anno-6a353743-293f-4151-a790-c08574cc2a37' data-letter-spacing='0.05677655677655678'>Singer</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=601,1023,91,32",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-6a353743-293f-4151-a790-c08574cc2a37: { height: 32px; width: 91px; font-size: 20.0px; letter-spacing: 5.166666666666667px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "6fd33259-e8cd-4740-b309-23f00dd103d2",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='6fd33259-e8cd-4740-b309-23f00dd103d2' class='anno-6fd33259-e8cd-4740-b309-23f00dd103d2' data-letter-spacing='0.052396616541353386'>Jabbour</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=698,1023,114,33",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-6fd33259-e8cd-4740-b309-23f00dd103d2: { height: 33px; width: 114px; font-size: 20.625px; letter-spacing: 5.973214285714286px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "62bd373a-63cd-4aaa-8012-1a9476334b3d",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='62bd373a-63cd-4aaa-8012-1a9476334b3d' class='anno-62bd373a-63cd-4aaa-8012-1a9476334b3d' data-letter-spacing='0.05355849329952916'>DOCUMENTING</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=268,1124,251,30",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-62bd373a-63cd-4aaa-8012-1a9476334b3d: { height: 30px; width: 251px; font-size: 18.75px; letter-spacing: 13.443181818181818px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "352b820d-5a31-46d0-9721-7574ad2f6984",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='352b820d-5a31-46d0-9721-7574ad2f6984' class='anno-352b820d-5a31-46d0-9721-7574ad2f6984' data-letter-spacing='0.5535714285714286'>A</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=528,1124,21,30",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-352b820d-5a31-46d0-9721-7574ad2f6984: { height: 30px; width: 21px; font-size: 18.75px; letter-spacing: 11.625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "98fe04fd-8557-48f3-8e83-2f8f14ae4b0a",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='98fe04fd-8557-48f3-8e83-2f8f14ae4b0a' class='anno-98fe04fd-8557-48f3-8e83-2f8f14ae4b0a' data-letter-spacing='0.06688941299790356'>COMMUNITY</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=560,1124,212,30",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-98fe04fd-8557-48f3-8e83-2f8f14ae4b0a: { height: 30px; width: 212px; font-size: 18.75px; letter-spacing: 14.180555555555555px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f43facda-6b8f-4672-b5f7-db0ff4d51ab7",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f43facda-6b8f-4672-b5f7-db0ff4d51ab7' class='anno-f43facda-6b8f-4672-b5f7-db0ff4d51ab7' data-letter-spacing='0.021716101694915255'>Prospect</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=268,1170,118,39",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f43facda-6b8f-4672-b5f7-db0ff4d51ab7: { height: 39px; width: 118px; font-size: 24.375px; letter-spacing: 2.5625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "2d7a5a96-8d2c-4d3f-a251-b9a528131532",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='2d7a5a96-8d2c-4d3f-a251-b9a528131532' class='anno-2d7a5a96-8d2c-4d3f-a251-b9a528131532' data-letter-spacing='0.0078125'>Quilting</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=395,1170,104,39",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-2d7a5a96-8d2c-4d3f-a251-b9a528131532: { height: 39px; width: 104px; font-size: 24.375px; letter-spacing: 0.8125px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "9f8d9438-7999-43a2-be3b-d67db0bf6d75",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='9f8d9438-7999-43a2-be3b-d67db0bf6d75' class='anno-9f8d9438-7999-43a2-be3b-d67db0bf6d75' data-letter-spacing='0.016183035714285716'>Heritage</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=509,1170,112,39",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-9f8d9438-7999-43a2-be3b-d67db0bf6d75: { height: 39px; width: 112px; font-size: 24.375px; letter-spacing: 1.8125px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b5ca35a3-2131-44e4-8aa2-63749d7e03cd",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b5ca35a3-2131-44e4-8aa2-63749d7e03cd' class='anno-b5ca35a3-2131-44e4-8aa2-63749d7e03cd' data-letter-spacing='0.05654761904761905'>Days</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=632,1170,63,39",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-b5ca35a3-2131-44e4-8aa2-63749d7e03cd: { height: 39px; width: 63px; font-size: 24.375px; letter-spacing: 3.5625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ee9258c1-8c80-498b-8f40-c4febff61e62",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='ee9258c1-8c80-498b-8f40-c4febff61e62' class='anno-ee9258c1-8c80-498b-8f40-c4febff61e62' data-letter-spacing='-0.109375'>in</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=704,1170,20,39",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-ee9258c1-8c80-498b-8f40-c4febff61e62: { height: 39px; width: 20px; font-size: 24.375px; letter-spacing: -2.1875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8b133da8-31db-4bbb-8462-b62991842823",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8b133da8-31db-4bbb-8462-b62991842823' class='anno-8b133da8-31db-4bbb-8462-b62991842823' data-letter-spacing='0.034193840579710144'>Walker</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=735,1170,92,39",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8b133da8-31db-4bbb-8462-b62991842823: { height: 39px; width: 92px; font-size: 24.375px; letter-spacing: 3.1458333333333335px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "727fe10c-b296-4738-8fb0-7ba271576fd9",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='727fe10c-b296-4738-8fb0-7ba271576fd9' class='anno-727fe10c-b296-4738-8fb0-7ba271576fd9' data-letter-spacing='0.03701241134751773'>County</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=837,1170,94,39",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-727fe10c-b296-4738-8fb0-7ba271576fd9: { height: 39px; width: 94px; font-size: 24.375px; letter-spacing: 3.4791666666666665px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f2acfdd1-e520-44c0-9f98-0d02eb0190e0",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f2acfdd1-e520-44c0-9f98-0d02eb0190e0' class='anno-f2acfdd1-e520-44c0-9f98-0d02eb0190e0' data-letter-spacing='-5.09375'>.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=943,1170,2,39",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f2acfdd1-e520-44c0-9f98-0d02eb0190e0: { height: 39px; width: 2px; font-size: 24.375px; letter-spacing: -10.1875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "748efed2-050b-463b-841d-7c9e5a1347cc",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='748efed2-050b-463b-841d-7c9e5a1347cc' class='anno-748efed2-050b-463b-841d-7c9e5a1347cc' data-letter-spacing='0.05482456140350877'>Denise</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=261,1216,95,34",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-748efed2-050b-463b-841d-7c9e5a1347cc: { height: 34px; width: 95px; font-size: 21.25px; letter-spacing: 5.208333333333333px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "87447aee-60b5-4ee5-a4d0-e02b0446ed56",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='87447aee-60b5-4ee5-a4d0-e02b0446ed56' class='anno-87447aee-60b5-4ee5-a4d0-e02b0446ed56' data-letter-spacing='0.058248299319727886'>Dutton</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=361,1216,98,34",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-87447aee-60b5-4ee5-a4d0-e02b0446ed56: { height: 34px; width: 98px; font-size: 21.25px; letter-spacing: 5.708333333333333px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "cfce5714-68aa-4f24-b48d-e7b12371439b",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='cfce5714-68aa-4f24-b48d-e7b12371439b' class='anno-cfce5714-68aa-4f24-b48d-e7b12371439b' data-letter-spacing='0.04389312977099236'>Benshoof</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=465,1216,131,34",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-cfce5714-68aa-4f24-b48d-e7b12371439b: { height: 34px; width: 131px; font-size: 21.25px; letter-spacing: 5.75px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f8b3fefd-ed66-4ea7-815e-c2c24c81ff51",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f8b3fefd-ed66-4ea7-815e-c2c24c81ff51' class='anno-f8b3fefd-ed66-4ea7-815e-c2c24c81ff51' data-letter-spacing='0.1375'>21</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1376,1172,25,29",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f8b3fefd-ed66-4ea7-815e-c2c24c81ff51: { height: 29px; width: 25px; font-size: 18.125px; letter-spacing: 3.4375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "6048cb49-37e8-427f-9f61-38d6c9f9c604",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='6048cb49-37e8-427f-9f61-38d6c9f9c604' class='anno-6048cb49-37e8-427f-9f61-38d6c9f9c604' data-letter-spacing='0.16176470588235295'>TIE</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=264,1324,51,28",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-6048cb49-37e8-427f-9f61-38d6c9f9c604: { height: 28px; width: 51px; font-size: 17.5px; letter-spacing: 8.25px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "2c9e41ce-7807-4ed0-8cb0-f7e6855f2f6d",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='2c9e41ce-7807-4ed0-8cb0-f7e6855f2f6d' class='anno-2c9e41ce-7807-4ed0-8cb0-f7e6855f2f6d' data-letter-spacing='0.5833333333333334'>A</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=324,1324,21,28",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-2c9e41ce-7807-4ed0-8cb0-f7e6855f2f6d: { height: 28px; width: 21px; font-size: 17.5px; letter-spacing: 12.25px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1a661d85-d8ea-43b7-8ffe-7263dde8e395",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='1a661d85-d8ea-43b7-8ffe-7263dde8e395' class='anno-1a661d85-d8ea-43b7-8ffe-7263dde8e395' data-letter-spacing='0.09494535519125684'>STRING</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=356,1324,122,28",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-1a661d85-d8ea-43b7-8ffe-7263dde8e395: { height: 28px; width: 122px; font-size: 17.5px; letter-spacing: 11.583333333333334px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ebe7780d-acc0-40da-b28b-311cdf823592",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='ebe7780d-acc0-40da-b28b-311cdf823592' class='anno-ebe7780d-acc0-40da-b28b-311cdf823592' data-letter-spacing='0.20833333333333334'>AND</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=488,1324,70,28",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-ebe7780d-acc0-40da-b28b-311cdf823592: { height: 28px; width: 70px; font-size: 17.5px; letter-spacing: 14.583333333333334px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "6ef502e6-a1ee-411c-bc04-1d3a06c3c5b3",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='6ef502e6-a1ee-411c-bc04-1d3a06c3c5b3' class='anno-6ef502e6-a1ee-411c-bc04-1d3a06c3c5b3' data-letter-spacing='0.15056818181818182'>BURY</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=570,1324,88,28",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-6ef502e6-a1ee-411c-bc04-1d3a06c3c5b3: { height: 28px; width: 88px; font-size: 17.5px; letter-spacing: 13.25px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "fc4fe808-8cd5-4f9b-8c7a-895f611f41b0",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='fc4fe808-8cd5-4f9b-8c7a-895f611f41b0' class='anno-fc4fe808-8cd5-4f9b-8c7a-895f611f41b0' data-letter-spacing='0.1875'>IT</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=669,1324,28,28",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-fc4fe808-8cd5-4f9b-8c7a-895f611f41b0: { height: 28px; width: 28px; font-size: 17.5px; letter-spacing: 5.25px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "98f3d2a1-11fd-48e4-a1dd-89c5f8c158cd",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='98f3d2a1-11fd-48e4-a1dd-89c5f8c158cd' class='anno-98f3d2a1-11fd-48e4-a1dd-89c5f8c158cd' data-letter-spacing='0.24632352941176472'>A</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=263,1369,17,41",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-98f3d2a1-11fd-48e4-a1dd-89c5f8c158cd: { height: 41px; width: 17px; font-size: 25.625px; letter-spacing: 4.1875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "789b5ac5-f1b1-40da-8c1b-45f8f9470944",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='789b5ac5-f1b1-40da-8c1b-45f8f9470944' class='anno-789b5ac5-f1b1-40da-8c1b-45f8f9470944' data-letter-spacing='0.02889784946236559'>Review</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=291,1369,93,41",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-789b5ac5-f1b1-40da-8c1b-45f8f9470944: { height: 41px; width: 93px; font-size: 25.625px; letter-spacing: 2.6875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "656f82de-7b84-4bbf-8ce3-f93d490d84c5",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='656f82de-7b84-4bbf-8ce3-f93d490d84c5' class='anno-656f82de-7b84-4bbf-8ce3-f93d490d84c5' data-letter-spacing='-0.057065217391304345'>of</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=394,1369,23,41",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-656f82de-7b84-4bbf-8ce3-f93d490d84c5: { height: 41px; width: 23px; font-size: 25.625px; letter-spacing: -1.3125px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f18b31fd-1756-4c7f-af35-ca60891fa344",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f18b31fd-1756-4c7f-af35-ca60891fa344' class='anno-f18b31fd-1756-4c7f-af35-ca60891fa344' data-letter-spacing='-0.012768817204301076'>Folklife</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=428,1369,93,41",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f18b31fd-1756-4c7f-af35-ca60891fa344: { height: 41px; width: 93px; font-size: 25.625px; letter-spacing: -1.1875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5e9b4920-7e3f-4dd6-9fd1-bb59aa0efb50",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='5e9b4920-7e3f-4dd6-9fd1-bb59aa0efb50' class='anno-5e9b4920-7e3f-4dd6-9fd1-bb59aa0efb50' data-letter-spacing='0.009817318757192174'>Scholarship</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=531,1369,158,41",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-5e9b4920-7e3f-4dd6-9fd1-bb59aa0efb50: { height: 41px; width: 158px; font-size: 25.625px; letter-spacing: 1.5511363636363635px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c93eec8e-af18-4463-9bbc-f58197a6ff26",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c93eec8e-af18-4463-9bbc-f58197a6ff26' class='anno-c93eec8e-af18-4463-9bbc-f58197a6ff26' data-letter-spacing='0.05818965517241379'>on</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=699,1369,29,41",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-c93eec8e-af18-4463-9bbc-f58197a6ff26: { height: 41px; width: 29px; font-size: 25.625px; letter-spacing: 1.6875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "6989b12e-eb4d-4c23-ad88-93d8cd111842",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='6989b12e-eb4d-4c23-ad88-93d8cd111842' class='anno-6989b12e-eb4d-4c23-ad88-93d8cd111842' data-letter-spacing='0.0498046875'>Wart</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=739,1369,64,41",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-6989b12e-eb4d-4c23-ad88-93d8cd111842: { height: 41px; width: 64px; font-size: 25.625px; letter-spacing: 3.1875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "7ccb2ef1-4d90-4c95-8a93-732419037cc8",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='7ccb2ef1-4d90-4c95-8a93-732419037cc8' class='anno-7ccb2ef1-4d90-4c95-8a93-732419037cc8' data-letter-spacing='0.013437950937950938'>Healing</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=813,1369,99,41",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-7ccb2ef1-4d90-4c95-8a93-732419037cc8: { height: 41px; width: 99px; font-size: 25.625px; letter-spacing: 1.3303571428571428px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5de9c180-cd64-4347-923a-2bdb9cc6386d",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='5de9c180-cd64-4347-923a-2bdb9cc6386d' class='anno-5de9c180-cd64-4347-923a-2bdb9cc6386d' data-letter-spacing='0.0057904411764705885'>Traditions</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=925,1369,136,41",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-5de9c180-cd64-4347-923a-2bdb9cc6386d: { height: 41px; width: 136px; font-size: 25.625px; letter-spacing: 0.7875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "44b69071-1b88-4552-905c-6d390dc7e135",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='44b69071-1b88-4552-905c-6d390dc7e135' class='anno-44b69071-1b88-4552-905c-6d390dc7e135' data-letter-spacing='-0.30078125'>..</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1065,1369,16,41",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-44b69071-1b88-4552-905c-6d390dc7e135: { height: 41px; width: 16px; font-size: 25.625px; letter-spacing: -4.8125px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "165b6d0d-9130-4aa4-b988-f4c19dae4504",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='165b6d0d-9130-4aa4-b988-f4c19dae4504' class='anno-165b6d0d-9130-4aa4-b988-f4c19dae4504' data-letter-spacing='0.03685897435897436'>Jennifer</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=261,1415,117,33",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-165b6d0d-9130-4aa4-b988-f4c19dae4504: { height: 33px; width: 117px; font-size: 20.625px; letter-spacing: 4.3125px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "d0d15e0b-6779-4554-bcf5-7a5bfa1e2b98",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='d0d15e0b-6779-4554-bcf5-7a5bfa1e2b98' class='anno-d0d15e0b-6779-4554-bcf5-7a5bfa1e2b98' data-letter-spacing='0.12287414965986394'>Joy</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=384,1415,49,33",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-d0d15e0b-6779-4554-bcf5-7a5bfa1e2b98: { height: 33px; width: 49px; font-size: 20.625px; letter-spacing: 6.020833333333333px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "9db164a6-8450-47c7-94f2-e76b1db16c1b",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='9db164a6-8450-47c7-94f2-e76b1db16c1b' class='anno-9db164a6-8450-47c7-94f2-e76b1db16c1b' data-letter-spacing='0.05901567944250871'>Jameson</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=439,1415,123,33",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-9db164a6-8450-47c7-94f2-e76b1db16c1b: { height: 33px; width: 123px; font-size: 20.625px; letter-spacing: 7.258928571428571px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b32013f5-a408-47d1-8353-004a6114d5ab",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b32013f5-a408-47d1-8353-004a6114d5ab' class='anno-b32013f5-a408-47d1-8353-004a6114d5ab' data-letter-spacing='0.21774193548387097'>37</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1372,1372,31,28",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-b32013f5-a408-47d1-8353-004a6114d5ab: { height: 28px; width: 31px; font-size: 17.5px; letter-spacing: 6.75px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f6b271b4-214c-4057-a01f-068dc06c81bc",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f6b271b4-214c-4057-a01f-068dc06c81bc' class='anno-f6b271b4-214c-4057-a01f-068dc06c81bc' data-letter-spacing='0.04758089133089133'>TRADITION</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=264,1522,182,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f6b271b4-214c-4057-a01f-068dc06c81bc: { height: 37px; width: 182px; font-size: 23.125px; letter-spacing: 8.659722222222221px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "2e697987-6614-4337-88c9-f3bd596231c1",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='2e697987-6614-4337-88c9-f3bd596231c1' class='anno-2e697987-6614-4337-88c9-f3bd596231c1' data-letter-spacing='-1.3125'>,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=451,1522,5,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-2e697987-6614-4337-88c9-f3bd596231c1: { height: 37px; width: 5px; font-size: 23.125px; letter-spacing: -6.5625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f837e8a4-2f95-46c3-85e0-1ae174f0bd75",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f837e8a4-2f95-46c3-85e0-1ae174f0bd75' class='anno-f837e8a4-2f95-46c3-85e0-1ae174f0bd75' data-letter-spacing='0.07008426966292135'>FAITH</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=468,1522,89,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f837e8a4-2f95-46c3-85e0-1ae174f0bd75: { height: 37px; width: 89px; font-size: 23.125px; letter-spacing: 6.2375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "aa1f5e7a-cd5f-4846-bbc9-8bfedac7e85c",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='aa1f5e7a-cd5f-4846-bbc9-8bfedac7e85c' class='anno-aa1f5e7a-cd5f-4846-bbc9-8bfedac7e85c' data-letter-spacing='-0.6517857142857143'>,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=564,1522,7,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-aa1f5e7a-cd5f-4846-bbc9-8bfedac7e85c: { height: 37px; width: 7px; font-size: 23.125px; letter-spacing: -4.5625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5f0e8367-0ea2-4d99-9e6d-a5f57853ef98",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='5f0e8367-0ea2-4d99-9e6d-a5f57853ef98' class='anno-5f0e8367-0ea2-4d99-9e6d-a5f57853ef98' data-letter-spacing='0.07104037267080746'>MYSTERY</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=582,1522,161,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-5f0e8367-0ea2-4d99-9e6d-a5f57853ef98: { height: 37px; width: 161px; font-size: 23.125px; letter-spacing: 11.4375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "31d17170-b717-4a28-bdde-6a7b578f567e",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='31d17170-b717-4a28-bdde-6a7b578f567e' class='anno-31d17170-b717-4a28-bdde-6a7b578f567e' data-letter-spacing='-0.6517857142857143'>,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=741,1522,7,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-31d17170-b717-4a28-bdde-6a7b578f567e: { height: 37px; width: 7px; font-size: 23.125px; letter-spacing: -4.5625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "90ab8a9e-59a8-4f83-a9c8-583c6ac352a8",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='90ab8a9e-59a8-4f83-a9c8-583c6ac352a8' class='anno-90ab8a9e-59a8-4f83-a9c8-583c6ac352a8' data-letter-spacing='0.062000499500499504'>SERVICE</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=757,1522,143,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-90ab8a9e-59a8-4f83-a9c8-583c6ac352a8: { height: 37px; width: 143px; font-size: 23.125px; letter-spacing: 8.866071428571429px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "2a3679c5-9ae4-4ee2-afd6-0681e298e1b0",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='2a3679c5-9ae4-4ee2-afd6-0681e298e1b0' class='anno-2a3679c5-9ae4-4ee2-afd6-0681e298e1b0' data-letter-spacing='0.0546875'>Wart</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=265,1568,64,40",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-2a3679c5-9ae4-4ee2-afd6-0681e298e1b0: { height: 40px; width: 64px; font-size: 25.0px; letter-spacing: 3.5px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f847cbac-bdf8-43db-b88d-ff76bf6f43d5",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f847cbac-bdf8-43db-b88d-ff76bf6f43d5' class='anno-f847cbac-bdf8-43db-b88d-ff76bf6f43d5' data-letter-spacing='0.021497919556171984'>Healing</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=333,1568,103,40",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f847cbac-bdf8-43db-b88d-ff76bf6f43d5: { height: 40px; width: 103px; font-size: 25.0px; letter-spacing: 2.2142857142857144px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b337a5ae-0d25-46be-8ce8-a97d24bf803c",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b337a5ae-0d25-46be-8ce8-a97d24bf803c' class='anno-b337a5ae-0d25-46be-8ce8-a97d24bf803c' data-letter-spacing='0.06159420289855073'>and</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=444,1568,46,40",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-b337a5ae-0d25-46be-8ce8-a97d24bf803c: { height: 40px; width: 46px; font-size: 25.0px; letter-spacing: 2.8333333333333335px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f88dc5a4-111b-41f1-8046-448514c35dcd",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f88dc5a4-111b-41f1-8046-448514c35dcd' class='anno-f88dc5a4-111b-41f1-8046-448514c35dcd' data-letter-spacing='0.0'>Folk</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=500,1568,50,40",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f88dc5a4-111b-41f1-8046-448514c35dcd: { height: 40px; width: 50px; font-size: 25.0px; letter-spacing: 0.0px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "7ab838d8-86ca-40ac-a1be-70c97ca8804f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='7ab838d8-86ca-40ac-a1be-70c97ca8804f' class='anno-7ab838d8-86ca-40ac-a1be-70c97ca8804f' data-letter-spacing='0.03333333333333333'>Cures</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=559,1568,75,40",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-7ab838d8-86ca-40ac-a1be-70c97ca8804f: { height: 40px; width: 75px; font-size: 25.0px; letter-spacing: 2.5px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f596802e-64c9-4dad-bbd0-951f9192d7f4",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f596802e-64c9-4dad-bbd0-951f9192d7f4' class='anno-f596802e-64c9-4dad-bbd0-951f9192d7f4' data-letter-spacing='-0.15789473684210525'>in</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=643,1568,19,40",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f596802e-64c9-4dad-bbd0-951f9192d7f4: { height: 40px; width: 19px; font-size: 25.0px; letter-spacing: -3.0px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b094458b-1984-477f-9c3d-65d79c92e108",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b094458b-1984-477f-9c3d-65d79c92e108' class='anno-b094458b-1984-477f-9c3d-65d79c92e108' data-letter-spacing='0.026077097505668934'>Northwest</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=671,1568,147,40",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-b094458b-1984-477f-9c3d-65d79c92e108: { height: 40px; width: 147px; font-size: 25.0px; letter-spacing: 3.8333333333333335px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "6f985280-b5f8-4677-b9c8-4552f08a915f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='6f985280-b5f8-4677-b9c8-4552f08a915f' class='anno-6f985280-b5f8-4677-b9c8-4552f08a915f' data-letter-spacing='0.037815126050420166'>Alabama</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=821,1568,119,40",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-6f985280-b5f8-4677-b9c8-4552f08a915f: { height: 40px; width: 119px; font-size: 25.0px; letter-spacing: 4.5px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "31aa2d0d-dd00-4192-9ef7-9faa5a808356",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='31aa2d0d-dd00-4192-9ef7-9faa5a808356' class='anno-31aa2d0d-dd00-4192-9ef7-9faa5a808356' data-letter-spacing='0.009615384615384616'>....</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=940,1568,52,40",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-31aa2d0d-dd00-4192-9ef7-9faa5a808356: { height: 40px; width: 52px; font-size: 25.0px; letter-spacing: 0.5px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "48e8debf-becf-4bb0-9ec0-03108881d1f2",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='48e8debf-becf-4bb0-9ec0-03108881d1f2' class='anno-48e8debf-becf-4bb0-9ec0-03108881d1f2' data-letter-spacing='0.09081325301204819'>Sarah</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=263,1617,83,29",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-48e8debf-becf-4bb0-9ec0-03108881d1f2: { height: 29px; width: 83px; font-size: 18.125px; letter-spacing: 7.5375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ee7c7f1e-f100-47f8-8ed4-4e7890fb96cc",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='ee7c7f1e-f100-47f8-8ed4-4e7890fb96cc' class='anno-ee7c7f1e-f100-47f8-8ed4-4e7890fb96cc' data-letter-spacing='0.06597222222222222'>Carter</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=354,1617,90,29",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-ee7c7f1e-f100-47f8-8ed4-4e7890fb96cc: { height: 29px; width: 90px; font-size: 18.125px; letter-spacing: 5.9375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8e3c16ce-dd6b-410c-bb83-e8a9fa670083",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8e3c16ce-dd6b-410c-bb83-e8a9fa670083' class='anno-8e3c16ce-dd6b-410c-bb83-e8a9fa670083' data-letter-spacing='0.23345588235294118'>49</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1368,1571,34,29",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8e3c16ce-dd6b-410c-bb83-e8a9fa670083: { height: 29px; width: 34px; font-size: 18.125px; letter-spacing: 7.9375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "7a1cfbe5-f286-45a6-97f8-b7db82b29cb7",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='7a1cfbe5-f286-45a6-97f8-b7db82b29cb7' class='anno-7a1cfbe5-f286-45a6-97f8-b7db82b29cb7' data-letter-spacing='-0.42857142857142855'>\"</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=255,1724,7,32",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-7a1cfbe5-f286-45a6-97f8-b7db82b29cb7: { height: 32px; width: 7px; font-size: 20.0px; letter-spacing: -3.0px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "10ef560c-8a9c-4502-976d-5d36e4265352",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='10ef560c-8a9c-4502-976d-5d36e4265352' class='anno-10ef560c-8a9c-4502-976d-5d36e4265352' data-letter-spacing='0.09090909090909091'>A</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=280,1724,11,32",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-10ef560c-8a9c-4502-976d-5d36e4265352: { height: 32px; width: 11px; font-size: 20.0px; letter-spacing: 1.0px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a08c4205-a888-4632-8c69-52d99c131593",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='a08c4205-a888-4632-8c69-52d99c131593' class='anno-a08c4205-a888-4632-8c69-52d99c131593' data-letter-spacing='0.1424731182795699'>GOOD</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=300,1724,93,32",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-a08c4205-a888-4632-8c69-52d99c131593: { height: 32px; width: 93px; font-size: 20.0px; letter-spacing: 13.25px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1790f484-7e7a-48bd-91e2-64104685cded",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='1790f484-7e7a-48bd-91e2-64104685cded' class='anno-1790f484-7e7a-48bd-91e2-64104685cded' data-letter-spacing='0.09090909090909091'>STEADY</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=404,1724,132,32",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-1790f484-7e7a-48bd-91e2-64104685cded: { height: 32px; width: 132px; font-size: 20.0px; letter-spacing: 12.0px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "3b1b3e15-c3d8-4b37-90a0-ad19cafea308",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='3b1b3e15-c3d8-4b37-90a0-ad19cafea308' class='anno-3b1b3e15-c3d8-4b37-90a0-ad19cafea308' data-letter-spacing='-0.42857142857142855'>,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=535,1724,7,32",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-3b1b3e15-c3d8-4b37-90a0-ad19cafea308: { height: 32px; width: 7px; font-size: 20.0px; letter-spacing: -3.0px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c4b58d45-dacb-47ca-8af4-fdd7e2677deb",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c4b58d45-dacb-47ca-8af4-fdd7e2677deb' class='anno-c4b58d45-dacb-47ca-8af4-fdd7e2677deb' data-letter-spacing='0.0873015873015873'>STABLE</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=552,1724,126,32",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-c4b58d45-dacb-47ca-8af4-fdd7e2677deb: { height: 32px; width: 126px; font-size: 20.0px; letter-spacing: 11.0px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "dfb11e05-df67-454b-9ee9-b5ff1ef16e52",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='dfb11e05-df67-454b-9ee9-b5ff1ef16e52' class='anno-dfb11e05-df67-454b-9ee9-b5ff1ef16e52' data-letter-spacing='0.16666666666666666'>JOB</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=693,1724,60,32",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-dfb11e05-df67-454b-9ee9-b5ff1ef16e52: { height: 32px; width: 60px; font-size: 20.0px; letter-spacing: 10.0px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "98ab2e44-ac83-4b08-9ece-76489bdef62b",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='98ab2e44-ac83-4b08-9ece-76489bdef62b' class='anno-98ab2e44-ac83-4b08-9ece-76489bdef62b' data-letter-spacing='-0.25'>\u201d</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=756,1724,8,32",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-98ab2e44-ac83-4b08-9ece-76489bdef62b: { height: 32px; width: 8px; font-size: 20.0px; letter-spacing: -2.0px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e1b8c5f4-c047-4323-8c07-cc2dbdcb504f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='e1b8c5f4-c047-4323-8c07-cc2dbdcb504f' class='anno-e1b8c5f4-c047-4323-8c07-cc2dbdcb504f' data-letter-spacing='0.31985294117647056'>A</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=263,1771,17,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-e1b8c5f4-c047-4323-8c07-cc2dbdcb504f: { height: 37px; width: 17px; font-size: 23.125px; letter-spacing: 5.4375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f9a8d876-3f18-47cc-803a-85ba40558416",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f9a8d876-3f18-47cc-803a-85ba40558416' class='anno-f9a8d876-3f18-47cc-803a-85ba40558416' data-letter-spacing='0.024872448979591837'>Culture</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=290,1771,98,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f9a8d876-3f18-47cc-803a-85ba40558416: { height: 37px; width: 98px; font-size: 23.125px; letter-spacing: 2.4375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ac07542b-32b6-4d72-8b22-223b7ee819b7",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='ac07542b-32b6-4d72-8b22-223b7ee819b7' class='anno-ac07542b-32b6-4d72-8b22-223b7ee819b7' data-letter-spacing='-0.002717391304347826'>of</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=398,1771,23,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-ac07542b-32b6-4d72-8b22-223b7ee819b7: { height: 37px; width: 23px; font-size: 23.125px; letter-spacing: -0.0625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a3f5555f-aef7-47d7-8eed-9189011cd8b3",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='a3f5555f-aef7-47d7-8eed-9189011cd8b3' class='anno-a3f5555f-aef7-47d7-8eed-9189011cd8b3' data-letter-spacing='0.03553921568627451'>Community</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=433,1771,153,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-a3f5555f-aef7-47d7-8eed-9189011cd8b3: { height: 37px; width: 153px; font-size: 23.125px; letter-spacing: 5.4375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "13f87f71-b542-4225-bb40-83d2486f79a8",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='13f87f71-b542-4225-bb40-83d2486f79a8' class='anno-13f87f71-b542-4225-bb40-83d2486f79a8' data-letter-spacing='0.08705357142857142'>at</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=598,1771,28,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-13f87f71-b542-4225-bb40-83d2486f79a8: { height: 37px; width: 28px; font-size: 23.125px; letter-spacing: 2.4375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c40c47c2-944b-4c50-884b-1ef0938a0e05",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c40c47c2-944b-4c50-884b-1ef0938a0e05' class='anno-c40c47c2-944b-4c50-884b-1ef0938a0e05' data-letter-spacing='0.023574561403508772'>Brookley</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=632,1771,114,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-c40c47c2-944b-4c50-884b-1ef0938a0e05: { height: 37px; width: 114px; font-size: 23.125px; letter-spacing: 2.6875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "10b49e27-f484-47ff-bfb5-80736c3d9d90",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='10b49e27-f484-47ff-bfb5-80736c3d9d90' class='anno-10b49e27-f484-47ff-bfb5-80736c3d9d90' data-letter-spacing='0.029057017543859653'>Air</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=757,1771,38,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-10b49e27-f484-47ff-bfb5-80736c3d9d90: { height: 37px; width: 38px; font-size: 23.125px; letter-spacing: 1.1041666666666667px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "56f24fcb-5468-41df-bb07-f3d0faf0a0d6",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='56f24fcb-5468-41df-bb07-f3d0faf0a0d6' class='anno-56f24fcb-5468-41df-bb07-f3d0faf0a0d6' data-letter-spacing='0.03482142857142857'>Force</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=801,1771,70,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-56f24fcb-5468-41df-bb07-f3d0faf0a0d6: { height: 37px; width: 70px; font-size: 23.125px; letter-spacing: 2.4375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1919ff6c-bcbe-4381-acf1-857fb7dc5664",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='1919ff6c-bcbe-4381-acf1-857fb7dc5664' class='anno-1919ff6c-bcbe-4381-acf1-857fb7dc5664' data-letter-spacing='0.06646825396825397'>Base</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=882,1771,63,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-1919ff6c-bcbe-4381-acf1-857fb7dc5664: { height: 37px; width: 63px; font-size: 23.125px; letter-spacing: 4.1875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "11695a23-21e0-4e8f-b653-b6fe15393a65",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='11695a23-21e0-4e8f-b653-b6fe15393a65' class='anno-11695a23-21e0-4e8f-b653-b6fe15393a65' data-letter-spacing='-4.78125'>.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=957,1771,2,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-11695a23-21e0-4e8f-b653-b6fe15393a65: { height: 37px; width: 2px; font-size: 23.125px; letter-spacing: -9.5625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "aa33bb06-3c31-4760-b481-99a4f6533ac6",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='aa33bb06-3c31-4760-b481-99a4f6533ac6' class='anno-aa33bb06-3c31-4760-b481-99a4f6533ac6' data-letter-spacing='0.09705882352941177'>Susan</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=263,1816,85,28",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-aa33bb06-3c31-4760-b481-99a4f6533ac6: { height: 28px; width: 85px; font-size: 17.5px; letter-spacing: 8.25px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a0f32e28-3259-49a7-b2ea-1fbf12c3c156",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='a0f32e28-3259-49a7-b2ea-1fbf12c3c156' class='anno-a0f32e28-3259-49a7-b2ea-1fbf12c3c156' data-letter-spacing='0.0863914373088685'>Thomas</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=358,1816,109,28",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-a0f32e28-3259-49a7-b2ea-1fbf12c3c156: { height: 28px; width: 109px; font-size: 17.5px; letter-spacing: 9.416666666666666px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "66656218-bbfd-4c63-a352-27779650f5a2",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='66656218-bbfd-4c63-a352-27779650f5a2' class='anno-66656218-bbfd-4c63-a352-27779650f5a2' data-letter-spacing='0.23345588235294118'>63</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1369,1772,34,29",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-66656218-bbfd-4c63-a352-27779650f5a2: { height: 29px; width: 34px; font-size: 18.125px; letter-spacing: 7.9375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "922d188e-795a-4745-8562-7ece3170bae0",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='922d188e-795a-4745-8562-7ece3170bae0' class='anno-922d188e-795a-4745-8562-7ece3170bae0' data-letter-spacing='0.03679435483870968'>Endnotes</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=268,1919,124,35",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-922d188e-795a-4745-8562-7ece3170bae0: { height: 35px; width: 124px; font-size: 21.875px; letter-spacing: 4.5625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ebb068f3-af2e-4154-b88f-c214d13af0a7",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='ebb068f3-af2e-4154-b88f-c214d13af0a7' class='anno-ebb068f3-af2e-4154-b88f-c214d13af0a7' data-letter-spacing='0.0081140350877193'>.....</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=400,1920,57,35",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-ebb068f3-af2e-4154-b88f-c214d13af0a7: { height: 35px; width: 57px; font-size: 21.875px; letter-spacing: 0.4625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "57050037-3a75-4a2e-879a-22eb78f8ffaf",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='57050037-3a75-4a2e-879a-22eb78f8ffaf' class='anno-57050037-3a75-4a2e-879a-22eb78f8ffaf' data-letter-spacing='0.1975806451612903'>77</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1372,1921,31,30",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-57050037-3a75-4a2e-879a-22eb78f8ffaf: { height: 30px; width: 31px; font-size: 18.75px; letter-spacing: 6.125px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "645024a1-862d-4f37-8798-ad64033af746",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='645024a1-862d-4f37-8798-ad64033af746' class='anno-645024a1-862d-4f37-8798-ad64033af746' data-letter-spacing='0.02194940476190476'>Bibliography</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=268,2020,168,33",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-645024a1-862d-4f37-8798-ad64033af746: { height: 33px; width: 168px; font-size: 20.625px; letter-spacing: 3.6875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ae1a2937-12e4-4285-8cd8-e2a330db3279",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='ae1a2937-12e4-4285-8cd8-e2a330db3279' class='anno-ae1a2937-12e4-4285-8cd8-e2a330db3279' data-letter-spacing='-0.009408602150537635'>...</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=438,2020,31,34",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-ae1a2937-12e4-4285-8cd8-e2a330db3279: { height: 34px; width: 31px; font-size: 21.25px; letter-spacing: -0.2916666666666667px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "3106061a-76ec-45c7-b588-5eb0c87ad9ec",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='3106061a-76ec-45c7-b588-5eb0c87ad9ec' class='anno-3106061a-76ec-45c7-b588-5eb0c87ad9ec' data-letter-spacing='0.20703125'>79</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1370,2022,32,30",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-3106061a-76ec-45c7-b588-5eb0c87ad9ec: { height: 30px; width: 32px; font-size: 18.75px; letter-spacing: 6.625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f44b88e7-719c-4b37-850c-5f2ff0ad5398",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f44b88e7-719c-4b37-850c-5f2ff0ad5398' class='anno-f44b88e7-719c-4b37-850c-5f2ff0ad5398' data-letter-spacing='0.008247800586510264'>Contributor</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=266,2117,155,41",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f44b88e7-719c-4b37-850c-5f2ff0ad5398: { height: 41px; width: 155px; font-size: 25.625px; letter-spacing: 1.2784090909090908px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b2646185-e35a-4c93-bb33-b5d2e47f933a",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b2646185-e35a-4c93-bb33-b5d2e47f933a' class='anno-b2646185-e35a-4c93-bb33-b5d2e47f933a' data-letter-spacing='0.006774475524475525'>Biographies</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=432,2119,156,42",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-b2646185-e35a-4c93-bb33-b5d2e47f933a: { height: 42px; width: 156px; font-size: 26.25px; letter-spacing: 1.0568181818181819px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "950490e0-8c96-4588-9727-94de1ab05511",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='950490e0-8c96-4588-9727-94de1ab05511' class='anno-950490e0-8c96-4588-9727-94de1ab05511' data-letter-spacing='0.2426470588235294'>82</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1369,2122,34,28",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-950490e0-8c96-4588-9727-94de1ab05511: { height: 28px; width: 34px; font-size: 17.5px; letter-spacing: 8.25px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8c05e615-e645-4b0f-aa2e-81baed401c10",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8c05e615-e645-4b0f-aa2e-81baed401c10' class='anno-8c05e615-e645-4b0f-aa2e-81baed401c10' data-letter-spacing='0.11848958333333333'>The</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=263,2220,48,33",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8c05e615-e645-4b0f-aa2e-81baed401c10: { height: 33px; width: 48px; font-size: 20.625px; letter-spacing: 5.6875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "cea6b1bc-ccef-4299-aaad-512ef64b1de5",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='cea6b1bc-ccef-4299-aaad-512ef64b1de5' class='anno-cea6b1bc-ccef-4299-aaad-512ef64b1de5' data-letter-spacing='0.05619747899159664'>Alabama</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=320,2220,119,33",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-cea6b1bc-ccef-4299-aaad-512ef64b1de5: { height: 33px; width: 119px; font-size: 20.625px; letter-spacing: 6.6875px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "dd23b4e4-3257-4567-acd8-72bd3d8af259",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='dd23b4e4-3257-4567-acd8-72bd3d8af259' class='anno-dd23b4e4-3257-4567-acd8-72bd3d8af259' data-letter-spacing='0.014112903225806451'>Folklife</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=450,2220,93,33",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-dd23b4e4-3257-4567-acd8-72bd3d8af259: { height: 33px; width: 93px; font-size: 20.625px; letter-spacing: 1.3125px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8b095ed6-55fd-4356-a7f0-526e2614d019",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8b095ed6-55fd-4356-a7f0-526e2614d019' class='anno-8b095ed6-55fd-4356-a7f0-526e2614d019' data-letter-spacing='0.024803321678321676'>Association</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=552,2220,156,33",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8b095ed6-55fd-4356-a7f0-526e2614d019: { height: 33px; width: 156px; font-size: 20.625px; letter-spacing: 3.8693181818181817px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "94761327-4256-4730-b2e5-af1440c3f442",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='94761327-4256-4730-b2e5-af1440c3f442' class='anno-94761327-4256-4730-b2e5-af1440c3f442' data-letter-spacing='0.21507352941176472'>84</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1369,2220,34,31",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-94761327-4256-4730-b2e5-af1440c3f442: { height: 31px; width: 34px; font-size: 19.375px; letter-spacing: 7.3125px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b0b192e9-8dc5-4531-8ed2-cfc638262d4a",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b0b192e9-8dc5-4531-8ed2-cfc638262d4a' class='anno-b0b192e9-8dc5-4531-8ed2-cfc638262d4a' data-letter-spacing='0.03869047619047619'>Special</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=268,2320,99,33",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-b0b192e9-8dc5-4531-8ed2-cfc638262d4a: { height: 33px; width: 99px; font-size: 20.625px; letter-spacing: 3.830357142857143px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8e41d877-3e9e-47bb-88c3-fdf6245daf3a",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8e41d877-3e9e-47bb-88c3-fdf6245daf3a' class='anno-8e41d877-3e9e-47bb-88c3-fdf6245daf3a' data-letter-spacing='0.060352233676975946'>Thanks</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=373,2319,97,33",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8e41d877-3e9e-47bb-88c3-fdf6245daf3a: { height: 33px; width: 97px; font-size: 20.625px; letter-spacing: 5.854166666666667px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f43c71ca-a54b-4de3-b859-c70f1bfd3bfe",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f43c71ca-a54b-4de3-b859-c70f1bfd3bfe' class='anno-f43c71ca-a54b-4de3-b859-c70f1bfd3bfe' data-letter-spacing='0.14583333333333334'>..</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=471,2318,30,34",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f43c71ca-a54b-4de3-b859-c70f1bfd3bfe: { height: 34px; width: 30px; font-size: 21.25px; letter-spacing: 4.375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ee11ee05-f0a9-483f-8b46-5a9bf77145d3",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='ee11ee05-f0a9-483f-8b46-5a9bf77145d3' class='anno-ee11ee05-f0a9-483f-8b46-5a9bf77145d3' data-letter-spacing='0.25'>86</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-004.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1368,2321,35,28",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-ee11ee05-f0a9-483f-8b46-5a9bf77145d3: { height: 28px; width: 35px; font-size: 17.5px; letter-spacing: 8.75px;}"
+            }
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.io/iiif/v2/2r6j96bm/list/2r6j96bm_Tributaries-14-088.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5abe4d9a-8a21-4cd2-9d9a-1bcc45548fe4",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='5abe4d9a-8a21-4cd2-9d9a-1bcc45548fe4' class='anno-5abe4d9a-8a21-4cd2-9d9a-1bcc45548fe4' data-letter-spacing='0.011449408404732762'>alabamafolklife.org</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-088.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=771,2422,258,34",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-5abe4d9a-8a21-4cd2-9d9a-1bcc45548fe4: { height: 34px; width: 258px; font-size: 21.25px; letter-spacing: 2.9539473684210527px;}"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.io/iiif/v2/2r6j96bm/list/2r6j96bm_Tributaries-14-005.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "0b87d591-6c14-4c09-bc12-69e3e01f2ffa",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='0b87d591-6c14-4c09-bc12-69e3e01f2ffa' class='anno-0b87d591-6c14-4c09-bc12-69e3e01f2ffa' data-letter-spacing='0.013824884792626727'>Alabama</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=749,2191,155,64",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-0b87d591-6c14-4c09-bc12-69e3e01f2ffa: { height: 64px; width: 155px; font-size: 40.0px; letter-spacing: 2.142857142857143px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "49e59526-b163-41d2-bdae-372cfc9b3e80",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='49e59526-b163-41d2-bdae-372cfc9b3e80' class='anno-49e59526-b163-41d2-bdae-372cfc9b3e80' data-letter-spacing='-0.03373015873015873'>Folklife</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=919,2191,126,64",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-49e59526-b163-41d2-bdae-372cfc9b3e80: { height: 64px; width: 126px; font-size: 40.0px; letter-spacing: -4.25px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1c690c64-ca76-42ae-906c-71dda7b4a01f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='1c690c64-ca76-42ae-906c-71dda7b4a01f' class='anno-1c690c64-ca76-42ae-906c-71dda7b4a01f' data-letter-spacing='0.07797619047619048'>Soood</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=736,2300,315,123",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-1c690c64-ca76-42ae-906c-71dda7b4a01f: { height: 123px; width: 315px; font-size: 76.875px; letter-spacing: 24.5625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "357b303f-f542-4ae4-b875-826b093a995b",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='357b303f-f542-4ae4-b875-826b093a995b' class='anno-357b303f-f542-4ae4-b875-826b093a995b' data-letter-spacing='0.053090619571511295'>ASSOCIATION</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r6j96bm/canvas/2r6j96bm_Tributaries-14-005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r6j96bm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=740,2431,314,38",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-357b303f-f542-4ae4-b875-826b093a995b: { height: 38px; width: 314px; font-size: 23.75px; letter-spacing: 16.670454545454547px;}"
+            }
+        }
+    ]
+}
